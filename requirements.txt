@@ -1,0 +1,10 @@
+pytest
+pytest-xdist
+playwright
+pytest-playwright
+requests
+pytest-xdist
+assertpy
+pytest-difido
+faker
+jsonschema

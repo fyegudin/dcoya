@@ -1,0 +1,13 @@
+venv/
+videos/
+node_modules/
+trace.zip
+__snapshots/
+.idea/
+test-results/
+.pytest_cache/
+state.json
+__pycache__/
+report/
+.idea
+.pytest_cache
